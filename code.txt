@@ -1,0 +1,25 @@
+Services Intégrés de support à la Microinformatique - SIM
+
+Code d'accès DGTIC : meddahin
+
+Échéance du compte : aucune 
+Échéance du mot de passe : non disponible 
+Statut du compte : activé 
+Adresse de suivi courriel : non applicable 
+Groupe principal : sceco 
+Groupes secondaires :
+       non disponible  
+
+Permissions spéciales : 
+      Espace privé = 100 Mo 
+      Page web personnelle 
+      Accès intranet hors-campus par VPN 
+
+Vous pouvez prendre les actions suivantes sur ce compte :
+
+
+
+L'espace privé résidera à l'adresse : \\ocean\usagers\code_acces  
+Pour atteindre l'espace privé à partir d'un ordinateur non relié à SIM : http://ocean.sim.umontreal.ca/usagers/code_d'acces  
+La page web sera identifiée comme suit : http://mapageweb.umontreal.ca/code_acces 
+(Où code_d'acces désigne le code d'accès DGTIC de l'utilisateur). 
